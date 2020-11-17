@@ -1,4 +1,3 @@
-# chaincode
 # Hyperledger Fabric Chaincode
 
 For using and running this chaincode follow instruction  from Hyperledger Fabric Link:
