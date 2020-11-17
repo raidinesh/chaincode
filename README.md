@@ -1,6 +1,10 @@
 # chaincode
-Hyperledger Fabric Chaincode
+# Hyperledger Fabric Chaincode
+
 For using and running this chaincode follow instruction  from Hyperledger Fabric Link:
-https://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
-https://hyperledger-fabric.readthedocs.io/en/latest/install.html
-https://hyperledger-fabric.readthedocs.io/en/latest/test_network.html
+
+[Prereqs](https://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html)
+
+[Install](https://hyperledger-fabric.readthedocs.io/en/latest/install.html)
+
+[Test Network Setup](https://hyperledger-fabric.readthedocs.io/en/latest/test_network.html)
